@@ -80,7 +80,7 @@
     <color name="conversation_view_footer_load_more_text_color">@color/accent_blue</color>
 
     <!-- Widget colors -->
-    <color name="widget_header_bg_color">@color/primary_color</color>
+    <color name="widget_header_bg_color">@color/mail_orange</color>
     <color name="widget_conversation_list_divider_color">#e5e5e5</color>
 
     <color name="attachment_name_color">#333333</color>
